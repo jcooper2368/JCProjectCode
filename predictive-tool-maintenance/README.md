@@ -2,6 +2,10 @@
 
 This section contains the Predictive Tool Maintenance project. The project is organized as follows:
 
+[Data](https://github.com/jcooper2368/JCProjectCode/tree/main/predictive-tool-maintenance/data/Supplemental%20Predictive%20Maintenance%20Dataset.xlsx)
+
+
+
 - **[Data](predictive-tool-maintenance/data/Supplemental Predictive Maintenance Dataset.xlsx)**: Contains the datasets used for tool failure prediction and maintenance analysis.
 - 
 - **[Scripts](predictive-tool-maintenance/scripts/)**: Includes the Python scripts and Jupyter notebooks used for data analysis and modeling.
