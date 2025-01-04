@@ -2,7 +2,8 @@
 
 This section contains the Predictive Tool Maintenance project. The project is organized as follows:
 
-[Data](https://github.com/jcooper2368/JCProjectCode/tree/main/predictive-tool-maintenance/data/Supplemental%20Predictive%20Maintenance%20Dataset.xlsx)
+[Data](predictive-tool-maintenance/Supplemental%20Predictive%20Maintenance%20Dataset.xlsx)
+
 
 
 
