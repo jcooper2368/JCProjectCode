@@ -1,14 +1,10 @@
 ## Predictive Tool Maintenance Project
 
 This section contains the Predictive Tool Maintenance project. The project is organized as follows:
-
 [Data](predictive-tool-maintenance/ai4i2020_pmd.csv)
 
-[Project 1: Predictive Maintenance data jc](predictive-tool-maintenance/Supplemental%20Predictive%20Maintenance%20Dataset.xlsx)
+[Datalink](https://github.com/jcooper2368/JCProjectCode/raw/main/predictive-tool-maintenance/ai4i2020_pmd.csv)
 
-- **[Data](predictive-tool-maintenance/Supplemental Predictive Maintenance Dataset.xlsx)**: Contains the datasets used for tool failure prediction and maintenance analysis.
-
-[Data](predictive-tool-maintenance/Supplemental%20Predictive%20Maintenance%20Dataset.xlsx)
 
 - 
 - **[Scripts](predictive-tool-maintenance/Tool Failure Analysis (2).ipynb)**: Includes the Python scripts and Jupyter notebooks used for data analysis and modeling.
