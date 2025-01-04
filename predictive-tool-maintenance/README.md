@@ -2,7 +2,7 @@
 
 This section contains the Predictive Tool Maintenance project. The project is organized as follows:
 
-[Data](predictive-tool-maintenance/Tool Failure Analysis (2).ipynb)
+[Data](predictive-tool-maintenance/ai4i2020_pmd.csv)
 
 [Project 1: Predictive Maintenance data jc](predictive-tool-maintenance/Supplemental%20Predictive%20Maintenance%20Dataset.xlsx)
 
