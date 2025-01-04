@@ -1,7 +1,7 @@
 ## Predictive Tool Maintenance Project
 
 This section contains the Predictive Tool Maintenance project. The project is organized as follows:
-[Data](predictive-tool-maintenance/ai4i2020_pmd.csv)
+[Datarel](ai4i2020_pmd.csv)
 
 [Datalink](https://github.com/jcooper2368/JCProjectCode/raw/main/predictive-tool-maintenance/ai4i2020_pmd.csv)
 
