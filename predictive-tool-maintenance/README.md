@@ -4,7 +4,7 @@ This section contains the Predictive Tool Maintenance project. The project is or
 
 [Data](predictive-tool-maintenance/ai4i2020_pmd.csv)
 
-
+[Project 1: Predictive Maintenance](predictive-tool-maintenance/README.md)
 
 - **[Data](predictive-tool-maintenance/Supplemental Predictive Maintenance Dataset.xlsx)**: Contains the datasets used for tool failure prediction and maintenance analysis.
 
