@@ -11,7 +11,7 @@ This section contains the Predictive Tool Maintenance project. The project is or
 [Data](predictive-tool-maintenance/Supplemental%20Predictive%20Maintenance%20Dataset.xlsx)
 
 - 
-- **[Scripts](predictive-tool-maintenance/scripts/)**: Includes the Python scripts and Jupyter notebooks used for data analysis and modeling.
+- **[Scripts](predictive-tool-maintenance/Tool Failure Analysis (2).ipynb)**: Includes the Python scripts and Jupyter notebooks used for data analysis and modeling.
 - **[Models](predictive-tool-maintenance/models/Tool Failure Analysis (2))**: Contains the predictive model used for forecasting tool failures.
 - **[Visualizations](predictive-tool-maintenance/visualizations/)**: Includes charts and visualizations generated from the data.
 
