@@ -4,7 +4,11 @@ Welcome to the Sentiment Analysis Project. This project aims to analyze Yelp rev
 
 ## Project Organization 
 
-[UCI Machine Learning Dataset](https://github.com/jcooper2368/JCProjectCode/raw/main/predictive-tool-maintenance/ai4i2020_pmd.csv): The AI4I 2020 Predictive Maintenance Dataset from the UCI Machine Learning Repository provides historical tool usage data, performance metrics, and operational demands reflecting real-world predictive maintenance scenarios. 
+[Sentiment Analysis Data](https://github.com/jcooper2368/JCProjectCode/raw/main/sentiment-analysis-neural-networks/yelp_labelled.txt): The Yelp labeled data with customer reviews. 
+
+Disclaimer: The original dataset file was unfortunately lost after project development. However, I located a similar file online that appears to closely match the original dataset used for this project. While every effort has been made to ensure the new dataset aligns with the original in structure and content, there may be minor discrepancies. These differences are not expected to significantly affect the overall analysis, but they are noted for transparency.
+
+
 
 [Supplemental Predictive Maintenance Dataset](https://github.com/jcooper2368/JCProjectCode/raw/main/predictive-tool-maintenance/Supplemental%20Predictive%20Maintenance%20Dataset.xlsx): A supplemental dataset created by extending the UCI AI4I 2020 Predictive Maintenance Dataset with simulated data for demand per tool usage, parts per tool, lead times, inventory levels, and reorder points. 
 
