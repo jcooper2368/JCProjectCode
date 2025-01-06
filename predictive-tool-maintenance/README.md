@@ -15,5 +15,5 @@ Welcome to the Predictive Tool Maintenance Project, a part of my capstone portfo
 Detailed Project Documentation: For an in-depth understanding of the methodologies, tools, and outcomes refer to the reports below. 
 
 
-For more details, check out the [Predictive Tool Maintenance README](predictive-tool-maintenance/README.md).
+
 
