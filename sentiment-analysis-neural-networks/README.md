@@ -9,7 +9,7 @@ Welcome to the Sentiment Analysis Project. This project aims to analyze Yelp rev
 Disclaimer: The original dataset file was unfortunately lost after project development. However, I located a similar file online that appears to closely match the original dataset used for this project. While every effort has been made to ensure the new dataset aligns with the original in structure and content, there may be minor discrepancies. These differences are not expected to significantly affect the overall analysis, but they are noted for transparency.
 
 
-[Sentiment Analysis Notebook](https://colab.research.google.com/drive/1cP8ykrM-LGfqo1xZhw0kfPxBZTGfpD-1): Explore the Python scripts and Jupyter notebook used for data preprocessing, analysis, and sentiment classification. Review the RNN model developed to predict sentiment in customer reviews based on the labeled data.
+[Sentiment Analysis Script](https://github.com/jcooper2368/JCProjectCode/raw/main/sentiment-analysis-neural-networks/sentiment_analysis_gc.py): Explore the Python scripts used for data preprocessing, analysis, and sentiment classification. Review the RNN model developed to predict sentiment in customer reviews based on the labeled data.
 
 [Sentiment Analysis Notebook](https://github.com/jcooper2368/JCProjectCode/raw/main/sentiment-analysis-neural-networks/Sentiment_Analysis_GC.ipynb)
 
