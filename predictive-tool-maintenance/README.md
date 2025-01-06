@@ -6,18 +6,9 @@ Welcome to the Predictive Tool Maintenance Project, a part of my capstone portfo
 
 Data Sources: Access the dataset used in this project. 
 
-[AI41 2020 Predictive Maintenance Dataset](https://github.com/jcooper2368/JCProjectCode/raw/main/predictive-tool-maintenance/ai4i2020_pmd.csv): Contains historical data on tool usage, performance metrics, and operational demands
+[UCI Machine Learning Dataset](https://github.com/jcooper2368/JCProjectCode/raw/main/predictive-tool-maintenance/ai4i2020_pmd.csv): The AI4I 2020 Predictive Maintenance Dataset from the UCI Machine Learning Repository provides historical tool usage data, performance metrics, and operational demands reflecting real-world predictive maintenance scenarios. 
 
-[Supplemental Predictive Maintenance Dataset](https://github.com/jcooper2368/JCProjectCode/raw/main/predictive-tool-maintenance/Supplemental%20Predictive%20Maintenance%20Dataset.xlsx)
-
-
-
-
-
-This section contains the Predictive Tool Maintenance project. The project is organized as follows:
-[Datarel](ai4i2020_pmd.csv)
-
-[Datalink](https://github.com/jcooper2368/JCProjectCode/raw/main/predictive-tool-maintenance/ai4i2020_pmd.csv)
+[Supplemental Predictive Maintenance Dataset](https://github.com/jcooper2368/JCProjectCode/raw/main/predictive-tool-maintenance/Supplemental%20Predictive%20Maintenance%20Dataset.xlsx): A supplemental dataset created by extending the UCI AI4I 2020 Predictive Maintenance Dataset with simulated data for demand per tool usage, parts per tool, lead times, inventory levels, and reorder points. 
 
 
 - 
