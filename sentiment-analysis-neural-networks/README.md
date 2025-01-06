@@ -11,6 +11,8 @@ Disclaimer: The original dataset file was unfortunately lost after project devel
 
 [Sentiment Analysis Notebook](https://colab.research.google.com/drive/1cP8ykrM-LGfqo1xZhw0kfPxBZTGfpD-1): Explore the Python scripts and Jupyter notebook used for data preprocessing, analysis, and sentiment classification. Review the RNN model developed to predict sentiment in customer reviews based on the labeled data.
 
+[Sentiment Analysis Notebook](https://github.com/jcooper2368/JCProjectCode/raw/main/sentiment-analysis-neural-networks/Sentiment_Analysis_GC.ipynb)
+
 ## Detailed Project Documentation
 
 [Sentiment Analysis Report](https://github.com/jcooper2368/JCProjectCode/raw/main/sentiment-analysis-neural-networks/Sentiment%20Analysis.pdf):For an in-depth understanding of the methodologies, tools, and outcomes refer to this report. 
