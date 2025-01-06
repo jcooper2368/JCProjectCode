@@ -5,8 +5,9 @@ Welcome to the Predictive Tool Maintenance Project, a part of my capstone portfo
 ## Project Organization 
 
 Data Sources: Access the dataset used in this project. 
+
 [Data Source 1](ai4i2020_pmd.csv) : Contains historical data on tool usage, performance metrics, and operational demands
-[Data Source 2]
+[Data Source 2](Supplemental Predictive Maintenance Dataset.xlsx) 
 
 
 
