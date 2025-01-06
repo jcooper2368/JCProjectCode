@@ -10,6 +10,8 @@ Data Sources: Access the dataset used in this project.
 
 [Data Source 2](https://github.com/jcooper2368/JCProjectCode/raw/main/predictive-tool-maintenance/Supplemental Predictive Maintenance Dataset.xlsx) 
 
+[Supplemental Predictive Maintenance Dataset](https://github.com/jcooper2368/JCProjectCode/raw/main/predictive-tool-maintenance/Supplemental%20Predictive%20Maintenance%20Dataset.xlsx)
+
 
 
 
