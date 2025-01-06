@@ -11,7 +11,7 @@ Disclaimer: The original dataset file was unfortunately lost after project devel
 
 [Sentiment Analysis Script](https://github.com/jcooper2368/JCProjectCode/raw/main/sentiment-analysis-neural-networks/sentiment_analysis_gc.py): Explore the Python scripts used for data preprocessing, analysis, and sentiment classification. Review the RNN model developed to predict sentiment in customer reviews based on the labeled data.
 
-[Sentiment Analysis Google Colab Notebook](https://github.com/jcooper2368/JCProjectCode/raw/main/sentiment-analysis-neural-networks/Sentiment_Analysis_GC.ipynb)
+[Sentiment Analysis Google Colab Notebook](Sentiment_Analysis_GC.ipynb)
 
 ## Detailed Project Documentation
 
