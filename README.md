@@ -4,7 +4,7 @@ Welcome to my portfolio of data analytics projects! Below, you'll find links to 
 
 ## Projects:
 - [Project 1: Predictive Maintenance](predictive-tool-maintenance/README.md)
-- [Project 2: Data Visualization Dashboard](link_to_project_2_readme)
+- [Project 2: Sentiment Analysis](sentiment-analysis-neural-networks)
 - [Project 3: Market Analysis](link_to_project_3_readme)
 
 Feel free to explore each project, and don't hesitate to reach out if you have any questions!
