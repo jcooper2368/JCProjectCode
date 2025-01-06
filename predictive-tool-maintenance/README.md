@@ -12,7 +12,17 @@ Welcome to the Predictive Tool Maintenance Project, a part of my capstone portfo
 
 [Visualizations](https://public.tableau.com/app/profile/jasminecooper/viz/ToolFailureAnalysis/ExploringToolReliabilityandInventoryEfficiency): View Interactive dashboards and static visualizations showcasing key insights, including failure forecasts, inventory trends, and capacity planning. 
 
-Detailed Project Documentation: For an in-depth understanding of the methodologies, tools, and outcomes refer to the reports below. 
+## Detailed Project Documentation: For an in-depth understanding of the methodologies, tools, and outcomes refer to the reports below: 
+
+[Tool Failure Analysis Presentation](https://github.com/jcooper2368/JCProjectCode/raw/main/predictive-tool-maintenance/Tool%20Failure%20Analysis%20Presentation.pdf)
+
+[Presentation of Findings - Tool Failure Analysis](https://github.com/jcooper2368/JCProjectCode/raw/main/predictive-tool-maintenance/Presentation%20of%20Findings%20-%20Tool%20Failure%20Analysis.pdf)
+
+[Data Analytics Report and Executive Summary for Capstone Project](https://github.com/jcooper2368/JCProjectCode/raw/main/predictive-tool-maintenance/Data%20Analytics%20Report%20and%20Executive%20Summary%20for%20Capstone%20Project.pdf)
+
+[MSDA Capstone Project](https://github.com/jcooper2368/JCProjectCode/raw/main/predictive-tool-maintenance/MSDA%20Capstone%20Project.pdf)
+
+
 
 
 
