@@ -6,9 +6,7 @@ Welcome to the Predictive Tool Maintenance Project, a part of my capstone portfo
 
 Data Sources: Access the dataset used in this project. 
 
-[Data Source 1](ai4i2020_pmd.csv) : Contains historical data on tool usage, performance metrics, and operational demands
-
-[Data Source 2](https://github.com/jcooper2368/JCProjectCode/raw/main/predictive-tool-maintenance/Supplemental Predictive Maintenance Dataset.xlsx) 
+[AI41 2020 Predictive Maintenance Dataset](https://github.com/jcooper2368/JCProjectCode/raw/main/predictive-tool-maintenance/ai4i2020_pmd.csv): Contains historical data on tool usage, performance metrics, and operational demands
 
 [Supplemental Predictive Maintenance Dataset](https://github.com/jcooper2368/JCProjectCode/raw/main/predictive-tool-maintenance/Supplemental%20Predictive%20Maintenance%20Dataset.xlsx)
 
