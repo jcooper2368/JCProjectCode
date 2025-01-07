@@ -9,6 +9,8 @@ Welcome to my portfolio of data analytics projects! Below, you'll find links to 
   
 - [Project 4: Market Analysis](market-basket-analysis/README.md)
 
+- [Project 5: Dimensionality Reduction Methods](market-basket-analysis/README.md)
+
 Feel free to explore each project, and don't hesitate to reach out if you have any questions!
 
 ---
