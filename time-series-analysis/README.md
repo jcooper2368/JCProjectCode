@@ -4,13 +4,11 @@ This project analyzes daily revenue data from the first two years of a telecommu
 
 ## Project Organization 
 
-[Sentiment Analysis Data](https://github.com/jcooper2368/JCProjectCode/raw/main/sentiment-analysis-neural-networks/yelp_labelled.txt): Days 1-731 and revenue. 
+[Time Series Data](https://github.com/jcooper2368/JCProjectCode/raw/main/sentiment-analysis-neural-networks/yelp_labelled.txt): Days 1-731 and revenue. 
 
-[Sentiment Analysis Script](https://github.com/jcooper2368/JCProjectCode/raw/main/sentiment-analysis-neural-networks/sentiment_analysis_gc.py): Explore the Python scripts used for data preprocessing, analysis, and sentiment classification. Review the RNN model developed to predict sentiment in customer reviews based on the labeled data.
-
-[Sentiment Analysis Google Colab Notebook](Sentiment_Analysis_GC.ipynb)
+[Time Series Modeling Script](https://github.com/jcooper2368/JCProjectCode/raw/main/sentiment-analysis-neural-networks/sentiment_analysis_gc.py): 
 
 ## Detailed Project Documentation
 
-[Sentiment Analysis Report](https://github.com/jcooper2368/JCProjectCode/raw/main/sentiment-analysis-neural-networks/Sentiment%20Analysis.pdf):For an in-depth understanding of the methodologies, tools, and outcomes refer to this report. 
+[Time Series Modeling Report](https://github.com/jcooper2368/JCProjectCode/raw/main/sentiment-analysis-neural-networks/Sentiment%20Analysis.pdf):For an in-depth understanding of the methodologies, tools, and outcomes refer to this report. 
 
