@@ -4,11 +4,11 @@ This project analyzes daily revenue data from the first two years of a telecommu
 
 ## Project Organization 
 
-[Time Series Data](https://github.com/jcooper2368/JCProjectCode/raw/main/sentiment-analysis-neural-networks/yelp_labelled.txt): Days 1-731 and revenue. 
+[Time Series Data](https://github.com/jcooper2368/JCProjectCode/raw/main/time-series-analysis/teleco_time_series.csv): Contains the daily revenue data covering days 1-731. 
 
-[Time Series Modeling Script](https://github.com/jcooper2368/JCProjectCode/raw/main/sentiment-analysis-neural-networks/sentiment_analysis_gc.py): 
+[Time Series Modeling Script](https://github.com/jcooper2368/JCProjectCode/raw/main/time-series-analysis/Time%20Series%20Modeling%20(1).ipynb): Python scripts responsible for the time series modeling process, which includes the implementation of the models used in the analysis. 
 
 ## Detailed Project Documentation
 
-[Time Series Modeling Report](https://github.com/jcooper2368/JCProjectCode/raw/main/sentiment-analysis-neural-networks/Sentiment%20Analysis.pdf):For an in-depth understanding of the methodologies, tools, and outcomes refer to this report. 
+[Time Series Modeling Report](https://github.com/jcooper2368/JCProjectCode/raw/main/time-series-analysis/Time%20Series%20Modeling.pdf):For an in-depth understanding of the methodologies, tools, and outcomes refer to this report. 
 
