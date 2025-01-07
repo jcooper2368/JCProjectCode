@@ -8,7 +8,7 @@ Welcome to the Predictive Tool Maintenance Project, a part of my capstone portfo
 
 [Supplemental Predictive Maintenance Dataset](https://github.com/jcooper2368/JCProjectCode/raw/main/predictive-tool-maintenance/Supplemental%20Predictive%20Maintenance%20Dataset.xlsx): A supplemental dataset created by extending the UCI AI4I 2020 Predictive Maintenance Dataset with simulated data for demand per tool usage, parts per tool, lead times, inventory levels, and reorder points. 
 
-[Tool Failure Analysis](https://github.com/jcooper2368/JCProjectCode/raw/main/predictive-tool-maintenance/Tool%20Failure%20Analysis%20(2).ipynb): Explore the Python scripts and Jupyter notebook used for data preprocessing, analysis, and predictive modeling. Review the predictive machine learning models developed to forecast tooling failures based on historical data. 
+[Tool Failure Analysis](https://github.com/jcooper2368/JCProjectCode/raw/main/predictive-tool-maintenance/Tool%20Failure%20Analysis%20(3).ipynb): Explore the Python scripts and Jupyter notebook used for data preprocessing, analysis, and predictive modeling. Review the predictive machine learning models developed to forecast tooling failures based on historical data. 
 
 [Visualizations](https://public.tableau.com/app/profile/jasminecooper/viz/ToolFailureAnalysis/ExploringToolReliabilityandInventoryEfficiency): View Interactive dashboards and static visualizations showcasing key insights, including failure forecasts, inventory trends, and capacity planning. 
 
