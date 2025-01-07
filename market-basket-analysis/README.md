@@ -7,7 +7,8 @@ This project involves conducting a market basket analysis for a telecommunicatio
 
 [Teleco Market Basket Data](https://github.com/jcooper2368/JCProjectCode/raw/main/market-basket-analysis/teleco_market_basket.csv)
 
-[Market Basket Analysis Script](market-basket-analysis/Market%20Basket%20Analysis%202%20(1).ipynb)
+[Market Basket Analysis Script](Market%20Basket%20Analysis%202%20(1).ipynb)
+
 This analysis includes the following: 
 - Transformation of raw data into transactional data suitable for market basket analysis.
 - Implementation of the Apriori algorithm to extract frequent itemsets and generate association rules.
