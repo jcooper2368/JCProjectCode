@@ -5,7 +5,7 @@ This project applies Principal Component Analysis (PCA) to a telecommunications 
 
 [Churn Clean Dataset](https://github.com/jcooper2368/JCProjectCode/raw/main/dimensionality-reduction-methods/churn_clean_pres.csv)
 
-[Churn PCA Analysis Notebook](dimensionality-reduction-methods/Churn%20PCA%20Analysis%20%283%29.ipynb)
+[Churn PCA Analysis Notebook](Churn%20PCA%20Analysis%20%283%29.ipynb)
 
 [Dimensionality Reduction Methods Documentation](https://github.com/jcooper2368/JCProjectCode/raw/main/dimensionality-reduction-methods/Dimensionality%20Reduction%20Methods.docx)
 
