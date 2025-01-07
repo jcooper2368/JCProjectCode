@@ -8,6 +8,7 @@ Welcome to my portfolio of data analytics projects! Below, you'll find links to 
 - [Project 3: Time Series Modeling](time-series-analysis/README.md)
 - [Project 4: Market Analysis](market-basket-analysis/README.md)
 - [Project 5: Dimensionality Reduction Methods](dimensionality-reduction-methods/README.md)
+- [Project 6: K-Means Clustering](k-means-clustering/README.md)
 
 Feel free to explore each project, and don't hesitate to reach out if you have any questions!
 
