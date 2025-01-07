@@ -15,5 +15,5 @@ Feel free to explore each project, and don't hesitate to reach out if you have a
 ---
 
 You can also explore my interactive Tableau Public dashboard for more visual insights into the projects:
-[Tableau Public Dashboard](your_tableau_dashboard_link)
+[Tableau Public Dashboard](https://public.tableau.com/app/profile/jasminecooper/vizzes)
 
