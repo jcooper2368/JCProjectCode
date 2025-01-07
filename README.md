@@ -10,10 +10,12 @@ Welcome to my portfolio of data analytics projects! Below, you'll find links to 
 - [Project 5: Dimensionality Reduction Methods](dimensionality-reduction-methods/README.md)
 - [Project 6: K-Means Clustering](k-means-clustering/README.md)
 
+
+
+[Tableau Public Dashboard](https://public.tableau.com/app/profile/jasminecooper/vizzes): Explore my interactive Tableau Public dashboard for more visual insights into the projects
+
 Feel free to explore each project, and don't hesitate to reach out if you have any questions!
 
 ---
 
-You can also explore my interactive Tableau Public dashboard for more visual insights into the projects:
-[Tableau Public Dashboard](https://public.tableau.com/app/profile/jasminecooper/vizzes)
 
