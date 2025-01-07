@@ -12,7 +12,9 @@ This project leverages K-Means clustering to segment customers based on income, 
 
 ## Key Highlights
 Techniques Used: Data preprocessing (scaling), optimal cluster selection using the elbow method, and visualizations.
+
 Libraries: Pandas, Matplotlib, Seaborn, Scikit-learn, and SciPy.
+
 Outcome: Identification of actionable customer segments for targeted marketing.
 
 
