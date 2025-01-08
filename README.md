@@ -11,6 +11,7 @@ Welcome to my portfolio of data analytics projects! Below, you'll find links to 
 - [Project 6: K-Means Clustering](k-means-clustering/README.md)
 - [Project 7: Insights with Tableau and SQL](tableau-sql-insights/README.md)
 - [Project 8: Predictive Analysis with Decision Trees](predictive-analysis-decision-trees/README.md)
+- [Project 9: KNN Classification Analysis](knn-classification-analysis/README.md)
 
 
 
