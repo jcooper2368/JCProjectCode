@@ -1,5 +1,6 @@
-Telecom Customer Tenure Analysis Using Multiple Linear Regression
-Overview
+## Telecom Customer Tenure Analysis Using Multiple Linear Regression
+
+# Overview
 This project aims to determine the impact of customer geographic location, service outages, and monthly charges on the overall tenure of customers with telecommunications companies. By using multiple linear regression, we strive to understand these influences and provide actionable recommendations for telecom companies to improve customer retention.
 
 Research Question
