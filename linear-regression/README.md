@@ -11,6 +11,6 @@ This project aims to determine the impact of customer geographic location, servi
 ## Data, Scripts, and Report 
 The raw dataset is no longer available. 
 
-[Churn Data Notebook](linear-regression/Churn%20Data.ipynb): The linear regression script is no longer available, however, the churn data notebook provides an overview of the data cleaning process.
+[Churn Data Notebook](Churn%20Data.ipynb): The linear regression script is no longer available, however, the churn data notebook provides an overview of the data cleaning process.
 
 [Linear Regression Report](https://github.com/jcooper2368/JCProjectCode/raw/main/linear-regression/Linear%20Regression.pdf): Contains the entire data analysis and modeling process, including data cleaning, transformation, feature selection, model construction, and statistical calculations. A comprehensive report detailing the findings and recommendations based on the analysis.**
