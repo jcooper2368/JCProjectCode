@@ -9,8 +9,9 @@ This project aims to analyze and predict customer churn in the telecommunication
 - To provide recommendations to telecommunications companies to improve customer retention.
 
 ## Data, Scripts, and Reports
-Data: The dataset includes information on customer outages, equipment failure, data usage, geographical location, monthly charges, tenure, technical support interactions, payment methods, and area type.
+[Cleaned Data](https://github.com/jcooper2368/JCProjectCode/raw/main/logistic-regression/new_cleaned_data_two.csv)
+: The dataset includes information on customer outages, equipment failure, data usage, geographical location, monthly charges, tenure, technical support interactions, payment methods, and area type.
 
-Jupyter Notebook: Contains the entire data analysis and modeling process, including data preprocessing, exploratory data analysis, model building, and evaluation.
+[Churn Clean Data Notebook](Churn%20Clean%20Data%20Task%202%20(1).ipynb): Contains the entire data analysis and modeling process, including data preprocessing, exploratory data analysis, model building, and evaluation.
 
-Report: A comprehensive report detailing the findings and recommendations based on the analysis.
+[Logistic Regression Modeling Report](https://github.com/jcooper2368/JCProjectCode/raw/main/logistic-regression/Logisitic%20Regression%20Modeling.pdf): A comprehensive report detailing the findings and recommendations based on the analysis.
