@@ -13,6 +13,7 @@ Welcome to my portfolio of data analytics projects! Below, you'll find links to 
 - [Project 8: Predictive Analysis with Decision Trees](predictive-analysis-decision-trees/README.md)
 - [Project 9: KNN Classification Analysis](knn-classification-analysis/README.md)
 - [Project 10: Logistic Regression](logistic-regression/README.md)
+- [Project 11: Linear Regression](linear-regression/README.md)
 
 
 
