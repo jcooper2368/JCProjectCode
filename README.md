@@ -14,8 +14,9 @@ Welcome to my portfolio of data analytics projects! Below, you'll find links to 
 - [Project 9: KNN Classification Analysis](knn-classification-analysis/README.md)
 - [Project 10: Logistic Regression](logistic-regression/README.md)
 - [Project 11: Linear Regression](linear-regression/README.md)
-- [Project 12: Data Cleaning](data-cleaning/README.md)
-
+- [Project 13: Medical Data Cleaning Part 1](medical-data-cleaning/README.md)
+- [Project 13: Medical Data Cleaning Part 2](data-cleaning/README.md)
+  
 
 
 [Tableau Public Dashboard](https://public.tableau.com/app/profile/jasminecooper/vizzes): Explore my interactive Tableau Public dashboard for more visual insights into the projects
