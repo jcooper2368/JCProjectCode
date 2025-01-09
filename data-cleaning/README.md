@@ -10,4 +10,4 @@ This project investigates whether there is a statistically significant differenc
 
 [Data Cleaning Report](https://github.com/jcooper2368/JCProjectCode/raw/main/data-cleaning/Data%20Cleaning.pdf): Includes the code and outputs of the analysis, along with detailed findings and recommendations.
 
-[Medical Data Excel](https://github.com/jcooper2368/JCProjectCode/raw/main/data-cleaning/medical_clean_D207_JCooper.xlsx)
+[Medical Data Excel](https://github.com/jcooper2368/JCProjectCode/raw/main/data-cleaning/medical_clean_D207_JCooper.xlsx): Univariate and Bivariate summary statistics, visualizations, and distributions. 
