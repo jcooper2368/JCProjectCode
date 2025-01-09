@@ -1,13 +1,12 @@
 # Telecom Customer Churn Analysis and Prediction
-Overview
-This project investigates the factors influencing customer churn in the telecommunications sector. The primary goal is to understand how various customer-related factors impact their decision to leave the service provider, and to develop predictive models that can help in formulating strategies to reduce churn rates.
+
+# Overview
+This project aims to analyze and predict customer churn in the telecommunications industry by examining a variety of factors including customer outages, equipment failure, amount of data used, geographical location, monthly charge, tenure, frequency of technical support interactions, payment methods, and area type. Utilizing logistic regression, the analysis seeks to uncover the impact of these factors on customer churn and provide actionable recommendations to telecommunications companies to enhance customer retention strategies.
 
 ## Objectives
-To analyze the influence of different customer-related factors on churn.
-
-To develop logistic regression models to predict customer churn.
-
-To provide recommendations to telecommunications companies to improve customer retention.
+- To analyze the influence of different customer-related factors on churn.
+- To develop logistic regression models to predict customer churn.
+- To provide recommendations to telecommunications companies to improve customer retention.
 
 ## Data, Scripts, and Reports
 Data: The dataset includes information on customer outages, equipment failure, data usage, geographical location, monthly charges, tenure, technical support interactions, payment methods, and area type.
