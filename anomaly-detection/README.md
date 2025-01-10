@@ -9,4 +9,5 @@ This project focuses on developing an anomaly detection model to identify potent
 [Fraud Detection Report](https://github.com/jcooper2368/JCProjectCode/raw/main/anomaly-detection/Fraud%20Detection%20-%20Project%202.docx): Includes the methodology, analysis, findings, and recommendations.
 
 [Anomaly Detection Notebook](Proj%20No%202.ipynb)
+
 [Reduced Predictions Notebook](Project%20%232%20Reduced%20Predictions%20set.ipynb)
