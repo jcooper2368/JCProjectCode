@@ -16,6 +16,7 @@ Welcome to my portfolio of data analytics projects! Below, you'll find links to 
 - [Project 11: Linear Regression](linear-regression/README.md)
 - [Project 13: Medical Data Cleaning Part 1](medical-data-cleaning/README.md)
 - [Project 13: Medical Data Cleaning Part 2](data-cleaning/README.md)
+- [Project 14: Hierarchical Clustering](hierarchical-clustering/README.md)
   
 
 
