@@ -1,4 +1,4 @@
-# Jasmine Cooper Data Analytics Projects
+# Jasmine Cooper Portfolio
 
 Welcome to my portfolio! Below, you'll find links to individual project READMEs that provide detailed information about each project, including the problem statement, analysis, and outputs.
 
