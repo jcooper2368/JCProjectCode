@@ -6,7 +6,7 @@ Welcome to my portfolio! Below, you'll find links to individual project READMEs 
 - [Project 1: Predictive Maintenance](predictive-tool-maintenance/README.md)
 - [Project 2: Sentiment Analysis](sentiment-analysis-neural-networks/README.md)
 - [Project 3: Time Series Modeling](time-series-analysis/README.md)
-- [Project 4: Market Analysis](market-basket-analysis/README.md)
+- [Project 4: Market Basket Analysis](market-basket-analysis/README.md)
 - [Project 5: Dimensionality Reduction Methods](dimensionality-reduction-methods/README.md)
 - [Project 6: K-Means Clustering](k-means-clustering/README.md)
 - [Project 7: Insights with Tableau and SQL](tableau-sql-insights/README.md)
