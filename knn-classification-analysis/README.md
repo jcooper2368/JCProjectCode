@@ -1,7 +1,7 @@
 # Predictive Customer Churn Analysis with K-Nearest Neighbors
 
 ## Overview
-This repository contains a project focused on predicting customer churn using the K-Nearest Neighbors (KNN) classification technique. The analysis identifies significant variables that influence churn, providing telecommunication companies with valuable insights to refine their retention strategies.
+This project focused on predicting customer churn using the K-Nearest Neighbors (KNN) classification technique. The analysis identifies significant variables that influence churn, providing telecommunication companies with valuable insights to refine their retention strategies.
 
 [Cleaned Data](https://github.com/jcooper2368/JCProjectCode/raw/main/knn-classification-analysis/new_cleaned_data_two.csv): The data source was used to analyze customer behaviors and predict churn based on various factors.
 
