@@ -14,7 +14,7 @@ Welcome to my portfolio! Below, you'll find links to individual project READMEs 
 - [Project 9: KNN Classification Analysis](knn-classification-analysis/README.md)
 - [Project 10: Logistic Regression](logistic-regression/README.md)
 - [Project 11: Linear Regression](linear-regression/README.md)
-- [Project 13: Medical Data Cleaning Part 1](medical-data-cleaning/README.md)
+- [Project 12: Medical Data Cleaning Part 1](medical-data-cleaning/README.md)
 - [Project 13: Medical Data Cleaning Part 2](data-cleaning/README.md)
 - [Project 14: Hierarchical Clustering](hierarchical-clustering/README.md)
 - [Project 15: Anomaly Detection](anomaly-detection/README.md)
